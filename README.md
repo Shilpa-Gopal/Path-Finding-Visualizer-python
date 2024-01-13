@@ -3,10 +3,10 @@
 Hello there! Welcome to my path-finding visualizer! 
 It's inspired by Clement's original path-finding visualizer. For those who are new to this project, it's a visualization tool to visualize classic graph algorithms such as A* and more.
 
+
 ### A*
 A* is a graph traversal and path search algorithm, often used in many fields of computer science due to its completeness, optimality, and optimal efficiency. One major practical drawback is its O(b^d) space complexity, as it stores all generated nodes in memory. 
 Thus, in practical travel-routing systems, it is generally outperformed by algorithms that can pre-process the graph to attain better performance, as well as memory-bounded approaches. However, A* is still the best solution in many cases.
-
 I was fascinated to build my visualization tool after exploring maze generation algorithms:
 
 ## Maze Generation Algorithms
